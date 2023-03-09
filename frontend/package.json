@@ -26,6 +26,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "scripts": {
+    "lint": "eslint --ext=.jsx,.js,.tsx,.ts"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
