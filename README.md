@@ -50,10 +50,9 @@ git clone git@github.com:CodecoolGlobal/el-proyecte-grande-sprint-1-java-csovari
 To run the backend server:
 - use the Spring Boot Maven plugin
 
+        cd <repo folder>
 
-    cd <repo folder>
-
-    mvn spring-boot:run
+        mvn spring-boot:run
 
 Runs on localhost:8000
 
@@ -61,8 +60,8 @@ To run the frontend server:
 - You need NodeJs and Create React App to be installed
 
 
-    cd <repo folder>/frontend
-    npm start
+        cd <repo folder>/frontend
+        npm start
 
 Runs on localhost:3000
 
